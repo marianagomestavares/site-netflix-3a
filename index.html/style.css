@@ -153,6 +153,8 @@ margin-left: 1em;
 }
 
 .rodape_texto {
+    margin: 1em 0;
+    color: var(--cinza-secundario);
 
 margin: 1em 0;
 
