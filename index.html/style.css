@@ -120,9 +120,15 @@
     color: var(--cinza-secundario);
     font-size: 14px;
     }
-    .lista__limk a:hover {
-    color: purple;
+    
+    .lista__link a:hover{
+        color:var(--botao-azul);
     }
+
+    .lista__link a:active{
+        color:purple;
+    }
+
     .container__botao:hover{
     background-color: var var(--botao-azul-efeito);
     color:var(--cor-de-fundo);
