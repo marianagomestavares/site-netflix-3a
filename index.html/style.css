@@ -84,7 +84,7 @@
     .descricao__titulo {
     font-weight: 700;
     font-size: 48px;
-    color:var (--branco-principal);
+    color: var(--branco-principal);
     margin-bottom: 0.1em;
     }
     .secundario__botao {
