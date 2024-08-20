@@ -11,7 +11,7 @@
     background-color: var(--cor-de-fundo);
     color: var(--branco-principal);
     font-family: var(--font-principal);
-    font-size:16x;
+    font-size:16px;
     font-weight: 400;
     }
     
@@ -113,7 +113,7 @@
     }
     
     .lista__item{
-    font-size: 48px;
+    font-size: 32px;
     color: var(--cinza-secundario);
     }
     
