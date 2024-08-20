@@ -80,7 +80,7 @@
     .descricao__titulo{
     font-weight: 700;
     font-size: 48px;
-    color:var(--branco-principal);
+    color: var(--branco-principal);
     margin-bottom: 0.1em;
     }
     
@@ -109,12 +109,12 @@
     
     .dispositivos__titulo{
     font-size: 48px;
-    color:var(--branco-pricipal);
+    color: var(--branco-pricipal);
     }
     
     .lista__item{
     font-size: 48px;
-    color:var(--cinza-secundario);
+    color: var(--cinza-secundario);
     }
     
     .rodape{
@@ -146,7 +146,7 @@
     }
     
     .lista__link a:hover{
-    outline-color:var(--botao-azul);
+    outline-color: var(--botao-azul);
     }
     
     .lista__link a:active{
